@@ -1,0 +1,12 @@
+Testing Hierarchy
+
+Separate Tests by Type:
+1) Analysis tests
+2) Theme tests
+3) Option tests
+4) Theme List tests
+
+Note that web-client tests will be separate.
+
+All tests herein will be unit and thus will not depend on visuals (since those are acceptance/user tests).
+
